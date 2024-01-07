@@ -1,0 +1,34 @@
+.login-box h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(9, 9, 10);
+    font-weight: bold;
+}
+
+.login{
+    width: 322px;
+    height: 295px;
+    border: solid rgb(20, 8, 134) 5px;
+    margin: auto;
+    padding: 22px;
+border-radius: 10px;
+margin-top: 88px;
+}
+.login-box{
+    width: 160px;
+    margin-left: 74px;
+}
+
+.login-box label{
+    font-size: 21px;
+    color: black;
+}
+
+.login-box input{
+    width: 136px;
+    height: 16px;
+    border-radius: 5px;
+}
+.login-taxt{
+    color: rgb(32, 75, 231);
+}
